@@ -4,16 +4,12 @@ A C++ program for creating a maze board, defining start and end points, adding w
 
 ![Maze-solving Visualization](screenshots/maze_solver.gif)
 
-## Features
-
-- **Effective Shortest Path**: Utilizes Dijkstra's algorithm to find and visualize the shortest path in a maze.
-
 ## Usage
 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/AshrafAbdelkhalek10/maze-solving-visualization.git
+    git clone https://github.com/AshrafAbdelkhalek10/Maze.git
     ```
 
 2. Build the project:
