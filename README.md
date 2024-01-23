@@ -2,7 +2,7 @@
 
 A C++ program for creating a maze board, defining start and end points, adding walls, and visualizing the shortest path using Dijkstra's algorithm.
 
-![Maze-solving Visualization](images/photo_2024-01-23_19-46-43.jpg)
+![Maze-solving Visualization](images/photo_2024-01-23_19-55-02.jpg)
 
 ## Tutorial Video
 
