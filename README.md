@@ -4,6 +4,12 @@ A C++ program for creating a maze board, defining start and end points, adding w
 
 ![Maze-solving Visualization](images/photo_2024-01-23_19-46-43.jpg)
 
+## Tutorial Video
+
+Watch the tutorial video for a detailed walkthrough of the project:
+
+[Watch the Tutorial](https://clipchamp.com/watch/nLBzM3hkYid)
+
 ## Usage
 
 1. Clone the repository:
